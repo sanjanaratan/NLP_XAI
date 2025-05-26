@@ -83,7 +83,6 @@ Anchor coverage insights
 
 Word weight heatmaps
 
-(You can embed image links or .pngs here from your outputs folder)
 
 🎯 Conclusion
 This project demonstrates how combining NLP with interpretable ML can effectively detect suicidal content in social media while providing transparency in decision-making. It opens the door for ethically safe and trustworthy AI applications in mental health tech.
